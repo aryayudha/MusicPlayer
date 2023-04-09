@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "result": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 512633,
+      "collectionId": 1517447039,
+      "trackId": 3334,
+      "artistName": "Oasis",
+      "collectionName": "(What's the Story) Morning Glory?",
+      "trackName": "Dont look back in anger",
+      "collectionCensoredName": "(What's the Story) Morning Glory?",
+      "trackCensoredName": "Wonderwall",
+      "artistViewUrl": "https://music.apple.com/us/artist/oasis/512633?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/wonderwall/1517447039?i=1517447333&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/wonderwall/1517447039?i=1517447333&uo=4",
+      "previewUrl": "",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/30x30bb.jpg",
+      "artworkUrl60": "image",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1981-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 12,
+      "trackNumber": 3,
+      "trackTimeMillis": 258907,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Indie Rock",
+      "isStreamable": true
+    }
+  ]
+}
