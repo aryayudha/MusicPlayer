@@ -29,6 +29,7 @@ A music app use Apple iTunes API.
 4. Run "main.dart"
 
 ### Design Pattern
+![App Architecture](clean_architecture.webp)
 - [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) : is the blueprint for a modular system, which strictly follows the design principle called separation of concerns.
 - Project Structure :
   - Layer Domain : lapisan paling dalam/tinggi. Dimana merupakan business-logic seperti entities dan usecase.
